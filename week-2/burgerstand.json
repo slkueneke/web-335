@@ -1,0 +1,20 @@
+{
+   "_id": "1",
+   "firstName": "Sam",
+   "lastName": "Jones",
+   "burgers": ["111", "222"]
+}
+
+
+{
+  "_id": "111",
+  "burgerName": "Classic Cheeseburger",
+  "price": 8.99
+}
+
+
+{
+  "_id": "222",
+  "burgerName": "BBQ Burger",
+  "price": 12.99
+}
