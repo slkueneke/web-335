@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "101",
+    "firstName": "John",
+    "lastName": "Smith",
+    "movies": ["201", "202", "203"]
+  },
+
+  {
+    "_id": "201",
+    "movieName": "Jaws",
+    "genre": "Horror"
+  },
+
+  {
+    "_id": "202",
+    "movieName": "Star Wars",
+    "genre": "Sci-Fi"
+  },
+
+  {
+    "_id": "203",
+    "movieName": "When Harry Met Sally",
+    "genre": "Romantic Comedy"
+  },
+
+  {
+    "_id": "301",
+    "ratingScore": 5,
+    "viewerId": ["101"],
+    "movieId": ["201", "202"]
+  },
+
+  {
+    "_id": "302",
+    "ratingScore": 4,
+    "viewerId": ["101"],
+    "movieId": ["203"]
+  }
+]
