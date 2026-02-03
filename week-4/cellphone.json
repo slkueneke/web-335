@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "100",
+    "firstName": "Bob",
+    "lastName": "Jones"
+  },
+
+  {
+    "_id": "101",
+    "firstName": "Sue",
+    "lastName": "Smith"
+  },
+
+
+
+
+  {
+    "_id": "iPhone17",
+    "deviceName": "iPhone 17",
+    "deviceType": "phone",
+    "charger_id": "USBC",
+    "user_id": "101"
+  },
+
+  {
+    "_id": "iPad5",
+    "deviceName": "iPad 5",
+    "deviceType": "tablet",
+    "charger_id": "MiniUSB",
+    "user_id": "101"
+  },
+
+  {
+    "_id": "Galaxyi7500",
+    "deviceName": "Samsung Galaxy i7500",
+    "deviceType": "phone",
+    "charger_id": "USBC",
+    "user_id": "100"
+  },
+
+
+
+  
+  {
+    "_id": "USBC",
+    "chargerType": "USB-C",
+    "voltage": "5"
+  },
+
+  {
+    "_id": "MiniUSB",
+    "chargerType": "Mini USB",
+    "voltage": "4"
+  }
+
+
+
+]
