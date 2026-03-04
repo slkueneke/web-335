@@ -1,0 +1,50 @@
+{
+  "customers": [
+    {
+      "customerId": "1",
+      "firstName": "Sam",
+      "lastName": "Jones",
+      "wishlistitems": [
+        "001",
+        "003"
+      ]
+    },
+    {
+      "customerId": "2",
+      "firstName": "Sonia",
+      "lastName": "Smith",
+      "wishlistitems": [
+        "001",
+        "004",
+        "005"
+      ]
+    },
+    {
+      "customerId": "3",
+      "firstName": "Dan",
+      "lastName": "Green",
+      "wishlistitems": [
+        "005"
+      ]
+    },
+    {
+      "customerId": "4",
+      "firstName": "Megan",
+      "lastName": "Baker",
+      "wishlistitems": [
+        "002",
+        "003",
+        "005"
+      ]
+    },
+    {
+      "customerId": "5",
+      "firstName": "Chris",
+      "lastName": "Flores",
+      "wishlistitems": [
+        "002",
+        "003"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "bookId": "001",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "classics"
+    },
+    {
+      "bookId": "002",
+      "title": "Emma",
+      "author": "Jane Austen",
+      "genre": "classics"
+    },
+    {
+      "bookId": "003",
+      "title": "The Shining",
+      "author": "Stephen King",
+      "genre": "horror"
+    },
+    {
+      "bookId": "004",
+      "title": "Pretty Girls",
+      "author": "Karin Slaughter",
+      "genre": "thriller"
+    },
+    {
+      "bookId": "005",
+      "title": "The Good Daughter",
+      "author": "Karin Slaughter",
+      "genre": "thriller"
+    }
+  ]
+}
